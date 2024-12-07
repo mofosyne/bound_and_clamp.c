@@ -1,5 +1,5 @@
 {
-  "name": "Bound And Clamp",
+  "name": "bound-and-clamp",
   "version": "0.1.0",
   "repo": "mofosyne/bound_and_clamp.c",
   "description": "Various macros and functions for validating and guarding signals in c (Bounds, Clamps, etc...)",
