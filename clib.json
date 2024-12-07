@@ -1,0 +1,9 @@
+{
+  "name": "Bound And Clamp",
+  "version": "0.1.0",
+  "repo": "mofosyne/bound_and_clamp.c",
+  "description": "Various macros and functions for validating and guarding signals in c (Bounds, Clamps, etc...)",
+  "keywords": ["no heap", "malloc free", "no malloc", "strtok"],
+  "license": "GNUv3",
+  "src": ["bound.h", "clamp.h"]
+}
